@@ -1,0 +1,4 @@
+Esta es una prueba de git
+
+git remote add origin https://github.com/marcobarrientosynfante/pruebagit.git
+git push -u origin main
