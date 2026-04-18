@@ -1,0 +1,5 @@
+Indicaciones de la tarea
+
+- Crear un Proyecto y 3 ramas o branch.
+- Crear archivos simples en HTML y copiarlos en cada rama utilizando GIT
+- Cada alumno debe realizar un cambio en en cada archivo HTML y luego realizar la fusión o merge.
